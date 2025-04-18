@@ -6,13 +6,19 @@ nav {
   margin-bottom: 30px;
 }
 
-.navbar-nav .nav-link {
-  color: white !important;
+#alternativeUl {
+  border: none;
+  background-color: transparent;
+  color: white;
+  width: 5%;
 }
 
-#rightContainer {
-  width: 10%;
-  padding-right: 15px;
+#alternativeUl option {
+  color: black;
+}
+
+.navbar-nav .nav-link {
+  color: white !important;
 }
 
 #customSelect1,
