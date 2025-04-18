@@ -14,11 +14,12 @@ nav {
 }
 
 #alternativeUl option {
-  color: black;
+  background-color: #141414;
+  color: white;
 }
 
 .navbar-nav .nav-link {
-  color: white !important;
+  color: white;
 }
 
 #customSelect1,
@@ -32,10 +33,4 @@ nav {
   padding: 0;
   cursor: pointer;
   text-indent: -9999px;
-}
-
-#customSelect1 option,
-#customSelect2 option {
-  background: #fff;
-  color: #000;
 }
