@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Special+Gothic&display=swap");
+body {
+  background-color: #141414;
+  color: white;
+  font-family: "Special Gothic", sans-serif;
+}
+
+nav {
+  margin-bottom: 60px;
+}
+
+h1 {
+  font-size: 45px;
+}
+
+#darkerP {
+  background-color: #333333;
+  text-align: center;
+  width: 50%;
+  font-size: 15px;
+}
+
+.form-check-input {
+  transform: scale(1.5);
+}
