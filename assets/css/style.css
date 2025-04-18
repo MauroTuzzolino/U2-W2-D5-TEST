@@ -1,0 +1,35 @@
+body {
+  background-color: #141414;
+}
+
+nav {
+  margin-bottom: 30px;
+}
+
+.navbar-nav .nav-link {
+  color: white !important;
+}
+
+#rightContainer {
+  width: 10%;
+  padding-right: 15px;
+}
+
+#customSelect1,
+#customSelect2 {
+  appearance: none;
+  background: url("../avatar.png") no-repeat center center;
+  background-size: cover;
+  border: 1px solid #ccc;
+  width: 30px;
+  height: 30px;
+  padding: 0;
+  cursor: pointer;
+  text-indent: -9999px;
+}
+
+#customSelect1 option,
+#customSelect2 option {
+  background: #fff;
+  color: #000;
+}
